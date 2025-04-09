@@ -8,3 +8,5 @@
 --- 갱신 관련 내용 ---
 
 0409_10시07분 업로드 : Login, Regi, Info 관련 기본 틀 완료
+
+0409_15시40분 업로드 : Session 관련 작업 Login, Regi, Info와 잘 연동. Customer쪽 구현 완료했으나 Seller쪽 부족함.
