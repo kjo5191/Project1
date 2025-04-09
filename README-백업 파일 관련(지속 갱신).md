@@ -10,3 +10,5 @@
 0409_10시07분 업로드 : Login, Regi, Info 관련 기본 틀 완료
 
 0409_15시40분 업로드 : Session 관련 작업 Login, Regi, Info와 잘 연동. Customer쪽 구현 완료했으나 Seller쪽 부족함.
+
+0409_17시10분 업로드 : 더 디테일하게 구현된 Regi쪽 작업 추가, Store 관련 DAO, Service 등 기반 추가
