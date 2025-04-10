@@ -16,3 +16,5 @@
 0410_11시22분 업로드 : Customer Login 오류 해결(비밀번호가 일치하면 다른 ID가 세션으로 넘어갔음), Info 페이지에서 이름/전화번호/주소 수정 기능, Login 메서드쪽 이름 양식 통일
 
 0410_14시30분 업로드 : Register, Login 관련 Seller, Customer 모두 해결. Seller쪽 Info session 작업 추가.
+
+0410_16시24분 업로드 : Customer Mypage에 [주문 조회] 기능 추가 => order_view.jsp 에서 session의 customer_id를 받아와 equals.order_id 조회 (MySQL 에서 insert문으로 직접 추가해서 테스트 해야함)
