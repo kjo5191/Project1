@@ -43,7 +43,7 @@ public class InfoController {
 	public String updatePwdOk(@RequestParam("new_pwd") String newPwd, HttpSession session) {
 	    CustomerDTO loginCustomer = (CustomerDTO) session.getAttribute("loginCustomer");
 
-		log.info("안녕");
+		log.warning("안녕");
 	    if (loginCustomer != null) {
 	        HashMap<String, String> param = new HashMap<String, String>();
 	        param.put("id", Integer.toString(loginCustomer.getId()));
