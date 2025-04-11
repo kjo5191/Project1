@@ -18,3 +18,5 @@
 0410_14시30분 업로드 : Register, Login 관련 Seller, Customer 모두 해결. Seller쪽 Info session 작업 추가.
 
 0410_16시24분 업로드 : Customer Mypage에 [주문 조회] 기능 추가 => order_view.jsp 에서 session의 customer_id를 받아와 equals.order_id 조회 (MySQL 에서 insert문으로 직접 추가해서 테스트 해야함)
+
+0411_10시40분 업로드 : Info관련 Seller쪽 모두 구현
