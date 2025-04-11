@@ -25,6 +25,7 @@ public class RegiController {
 	@RequestMapping("/register")
 	public String register() {
 		log.info("@# register()");
+		log.info("그냥 찎어보는 로그");
 		return "register";
 	}
 	
