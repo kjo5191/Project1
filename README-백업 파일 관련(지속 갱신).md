@@ -20,3 +20,5 @@
 0410_16시24분 업로드 : Customer Mypage에 [주문 조회] 기능 추가 => order_view.jsp 에서 session의 customer_id를 받아와 equals.order_id 조회 (MySQL 에서 insert문으로 직접 추가해서 테스트 해야함)
 
 0411_10시40분 업로드 : Info관련 Seller쪽 모두 구현
+
+0411_14시49분 업로드 : 상품 구매 버튼 -> Order테이블에 DB값 넘기기 구현 + 마이페이지에서 주문 조회 작동
