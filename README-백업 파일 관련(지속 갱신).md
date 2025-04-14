@@ -32,3 +32,5 @@
 0414-09시30분 업로드 : Log, Regi 통합 및 폴더 생성, 그에 따른 return값 네이밍 재입력 완료버전 통합
 
 0414-14시33분 업로드 : main, product, store, friend 통합 완료. customer_info 주소 오류 수정. (회원가입 오류 남아있음)
+
+0414-14시48분 업로드 : bootstrap 관련 js 2개 누락된부분 합쳐서 업로드.
